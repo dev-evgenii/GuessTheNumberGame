@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FhAOzoX3V08OwD2jPKbqgUarldDahz0ndZggyPRWXS+rLKzhpAeGcI+N1YqD/z88lbLQFAyIYVDsm7IdW7SrcA==",
+  "success": true,
+  "projectFilePath": "F:\\otus_latest\\HomeWork_SOLID\\GameSOLID.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AUA\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\AUA\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\AUA\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
