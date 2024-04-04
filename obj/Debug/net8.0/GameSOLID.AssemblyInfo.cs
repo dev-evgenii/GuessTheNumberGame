@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GameSOLID")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0985f8e30f85dc73ed60b3d1064f9a229095e255")]
 [assembly: System.Reflection.AssemblyProductAttribute("GameSOLID")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GameSOLID")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
