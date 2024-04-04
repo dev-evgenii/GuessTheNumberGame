@@ -1,1 +1,2 @@
-# GuessTheNumberGame
+# Otus 
+Домашнее задание. Демонстрация SOLID принципов.
